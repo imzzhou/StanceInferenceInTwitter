@@ -23,16 +23,19 @@ Please note that some tweet IDs might not be available due to account suspension
 If you use the dataset provided in this repository, please cite our works:
 
 1. Zhou, Z. and Elejalde, E., 2023, April. Stance inference in Twitter through graph convolutional collaborative filtering networks with minimal supervision. In Companion Proceedings of the ACM Web Conference 2023 (pp. 1030-1038).
-<code>@inproceedings{zhou2023stance,
+```
+@inproceedings{zhou2023stance,
   title={Stance inference in Twitter through graph convolutional collaborative filtering networks with minimal supervision},
   author={Zhou, Zhiwei and Elejalde, Erick},
   booktitle={Companion Proceedings of the ACM Web Conference 2023},
   pages={1030--1038},
   year={2023}
-}<code>
+}
+```
 
 2. Zhou, Z., Elejalde, E. Unveiling the silent majority: stance detection and characterization of passive users on social media using collaborative filtering and graph convolutional networks. EPJ Data Sci. 13, 28 (2024).
-<code>@article{zhou2024unveiling,
+```
+@article{zhou2024unveiling,
   title={Unveiling the silent majority: stance detection and characterization of passive users on social media using collaborative filtering and graph convolutional networks},
   author={Zhou, Zhiwei and Elejalde, Erick},
   journal={EPJ Data Science},
@@ -41,4 +44,5 @@ If you use the dataset provided in this repository, please cite our works:
   pages={28},
   year={2024},
   publisher={Springer Berlin Heidelberg}
-}<code>
+}
+```
