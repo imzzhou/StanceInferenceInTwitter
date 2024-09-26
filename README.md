@@ -1,6 +1,6 @@
 # Stance Inference in Twitter through Graph Convolutional Collaborative Filtering Networks with Minimal Supervision
 
-This repository contains the tweet IDs used in our study. The paper can be found at the following link: [arxiv](https://arxiv.org/pdf/2303.15532.pdf)
+This repository contains the tweet IDs used in our study. The papers can be found at the following links: [Paper 1](https://dl.acm.org/doi/10.1145/3543873.3587640) and [Paper 2](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-024-00469-y)
 
 ## Overview
 
@@ -20,11 +20,25 @@ Please note that some tweet IDs might not be available due to account suspension
 
 ## Citation
 
-If you use the dataset provided in this repository, please cite our work:
+If you use the dataset provided in this repository, please cite our works:
 
-@article{zhou2023stance,
-  title={Stance Inference in Twitter through Graph Convolutional Collaborative Filtering Networks with Minimal Supervision},
+1. Zhou, Z. and Elejalde, E., 2023, April. Stance inference in Twitter through graph convolutional collaborative filtering networks with minimal supervision. In Companion Proceedings of the ACM Web Conference 2023 (pp. 1030-1038).
+<code>@inproceedings{zhou2023stance,
+  title={Stance inference in Twitter through graph convolutional collaborative filtering networks with minimal supervision},
   author={Zhou, Zhiwei and Elejalde, Erick},
-  journal={arXiv preprint arXiv:2303.15532},
+  booktitle={Companion Proceedings of the ACM Web Conference 2023},
+  pages={1030--1038},
   year={2023}
-}
+}<code>
+
+2. Zhou, Z., Elejalde, E. Unveiling the silent majority: stance detection and characterization of passive users on social media using collaborative filtering and graph convolutional networks. EPJ Data Sci. 13, 28 (2024).
+<code>@article{zhou2024unveiling,
+  title={Unveiling the silent majority: stance detection and characterization of passive users on social media using collaborative filtering and graph convolutional networks},
+  author={Zhou, Zhiwei and Elejalde, Erick},
+  journal={EPJ Data Science},
+  volume={13},
+  number={1},
+  pages={28},
+  year={2024},
+  publisher={Springer Berlin Heidelberg}
+}<code>
